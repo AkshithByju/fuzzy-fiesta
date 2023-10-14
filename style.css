@@ -1,0 +1,12 @@
+#visual-studio{
+    text-align:center;
+    background-color:aqua
+}
+#console-screen{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    background-color:aquamarine
+}
+body{
+    background-image:url(code\ man\ i.jpg);
+}
